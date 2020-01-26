@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "C:\\Users\\Jhuma\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "python.formatting.provider": "black",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./tests",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": true
+}

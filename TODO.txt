@@ -1,0 +1,28 @@
+5. ******** Friday Fix Tests because InvalidMoveException is not thrown
+6a. Code comments
+7. Pure chess notation read
+8. Check for mates
+king cannot step into enemy path
+cant move piece in king pin
+9. En Passant
+10. Castling######
+calculate who has how many points
+create a menu with choices like database reload, play ai, play game#####
+11. ***Document - 1 days worth of work 
+11. How does the computer play back
+    a) *****AI - risky
+    b) **play from databases.
+12. **Better UI    use tkinter for drag and drop. IN PROGRESS
+
+====
+10. Allow for empty board to work without populate board 
+11. TODO figure how to convert this into a __str__ or a __repr__ study the diff
+
+1. Turns on pygame chess
+2. 4 person chess - new board class enherting from old board class
+3. use the SDL library to read out the moves "a2"
+4. connect to a remote system to do the AI bit - research
+5. microphone to catch spoken voice into text - research
+6. download a bank of 1M games into a local databse
+
+
